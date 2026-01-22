@@ -25,6 +25,9 @@ $$u(t) = K_p e(t) + K_i \int_{0}^{t} e(\tau) d\tau + K_d \frac{de(t)}{dt}$$
 ## 📂 Documentación y Código
 Puedes encontrar los archivos fuente de Arduino, los scripts de MATLAB y la documentación técnica detallada en este repositorio.
 ![Demostración Bola y Placa]
-<video src="proyecto.mp4" controls="controls" style="max-width: 100%;">
-</video>
+<p align="center">
+  <video src="proyecto.mp4" width="100%" controls>
+    Tu navegador no soporta el video.
+  </video>
+</p>
 
